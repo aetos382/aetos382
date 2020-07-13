@@ -1,5 +1,12 @@
 = Hi there 👋
 
+C# とか PowerShell とか CI/CD とかをやってるおじさんです。
+
+脱出ゲーム、謎解きゲーム、ボードゲームなども好き。あと FGO とかやってます。
+
+* https://tech.blog.aerie.jp[blog]
+* https://twitter.com/aetos382[twitter]
+
 ////
 **aetos382/aetos382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
