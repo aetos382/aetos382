@@ -6,3 +6,4 @@ C# とか PowerShell とか CI/CD とかをやってるおじさんです。ク�
 
 * https://tech.blog.aerie.jp[blog]
 * https://twitter.com/aetos382[twitter]
+* https://opencollective.com/aetos[Open Collective]
