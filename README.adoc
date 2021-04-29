@@ -2,7 +2,7 @@
 
 C# とか PowerShell とか CI/CD とかをやってるおじさんです。クラウドつよつよおじさんになりたい。
 
-脱出ゲーム、謎解きゲーム、ボードゲームなども好き。あと FGO とかやってます。
+脱出ゲーム、謎解きゲーム、ボードゲームなども好き。
 
 * https://tech.blog.aerie.jp[blog]
 * https://twitter.com/aetos382[twitter]
