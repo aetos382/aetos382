@@ -1,5 +1,7 @@
 = Hi there 👋
 
+image::https://github-readme-stats.vercel.app/api?username=aetos382[aetos's GitHub stats, caption=, link=https://github.com/anuraghazra/github-readme-stats]
+
 C# とか PowerShell とか CI/CD とかをやってるおじさんです。クラウドつよつよおじさんになりたい。
 
 脱出ゲーム、謎解きゲーム、ボードゲームなども好き。
