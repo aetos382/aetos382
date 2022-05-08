@@ -21,7 +21,7 @@ link:https://docs.microsoft.com/dotnet/csharp/[C#] とか link:https://docs.micr
 
 実装技術に興味がある方で、プロダクトを作って世の中に提供することにはあんまり興味がないので、GitHub に上がっているのは検証用の書き散らしコード片ばかりです。
 
-Markdown は嫌いです。このファイルは link:https://asciidoc.org/[AsciiDoc] で書かれています。
+link:https://ja.wikipedia.org/wiki/Markdown[Markdown] は嫌いです。このファイルは link:https://asciidoc.org/[AsciiDoc] で書かれています。
 
 == 趣味とか
 ゲームは最近はlink:https://www.minecraft.net/ja-jp[マイクラ]くらいしかやってないです。link:http://typemoon.com/[TYPE-MOON] が好きですが link:https://www.fate-go.jp/[FGO] には挫折しました。
