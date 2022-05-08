@@ -3,11 +3,40 @@
 image:https://github-readme-stats.vercel.app/api?username=aetos382[GitHub stats, link=https://github.com/anuraghazra/github-readme-stats]
 image:https://github-readme-stats.vercel.app/api/top-langs/?username=aetos382&layout=compact[Top Languages, link=https://github.com/anuraghazra/github-readme-stats]
 
-C# とか PowerShell とか CI/CD とかをやってるおじさんです。クラウドつよつよおじさんになりたい。
+== プロフィール
+link:https://ja.wikipedia.org/wiki/1983%E5%B9%B4[1983年]生まれ。♂。生まれも育ちも埼玉県です。
 
-脱出ゲーム、謎解きゲーム、ボードゲームなども好き。
+== プログラミングとか
+link:https://docs.microsoft.com/dotnet/csharp/[C#] とか link:https://docs.microsoft.com/powershell/[PowerShell] とかが好きです。クラウドつよつよおじさんになりたい。
 
+お仕事では EC のプラットフォームとかを作っています。会社では https://aws.amazon.com/[AWS] を使っています。link:https://azure.microsoft.com/[Azure] を触ってみたいです。
+
+実装技術に興味がある方で、プロダクトを作って世の中に提供することにはあんまり興味がないので、GitHub に上がっているのは検証用の書き散らしコード片ばかりです。
+
+Markdown は嫌いです。
+
+== 趣味とか
+ゲームは最近はlink:https://www.minecraft.net/ja-jp[マイクラ]くらいしかやってないです。link:http://typemoon.com/[TYPE-MOON] が好きですが link:https://www.fate-go.jp/[FGO] には挫折しました。
+
+link:https://realdgame.jp/[リアル脱出ゲーム]をはじめとする謎解きゲームが好きです。
+
+ボードゲームも好みます。短時間でできる軽めのゲームや笑えるゲームが好きです。人狼は苦手です。link:https://bodoge.hoobby.net/friends/6531/boardgames/have[持っているボドゲはこちら]。
+
+音楽では link:https://www.soundhorizon.com/[Sound Horizon] のファンです。
+
+物理学や哲学に興味がありますが、専門的に勉強したことはありません。せいぜいがブルーバックスとかの解説新書のレベルです。
+物理学では素粒子論や宇宙論、哲学では言語哲学、科学哲学、分析哲学、構造主義、プラグマティズムなどを知りたいと思っています。
+
+スポーツは嫌いです。
+
+貧乳派です。
+
+== 性格分析
+link:https://seikaku.hanihoh.com/seikaku3/r/?k=959ae92d48e5e4[呪術師です。適職はないらしいです。]
+
+https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC[INTP 型です。]
+
+== リンク
 * https://tech.blog.aerie.jp[blog]
 * https://twitter.com/aetos382[twitter]
 * https://opencollective.com/aetos[Open Collective]
-* https://bodoge.hoobby.net/friends/6531/boardgames/have[持っているボドゲ]
