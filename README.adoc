@@ -17,7 +17,7 @@ link:https://ja.wikipedia.org/wiki/1983%E5%B9%B4[1983年]生まれ。男。生�
 == プログラミング
 link:https://docs.microsoft.com/dotnet/csharp/[C#] とか link:https://docs.microsoft.com/powershell/[PowerShell] とかが好きです。クラウドつよつよおじさんになりたい。
 
-お仕事では EC のプラットフォームとかを作っています。会社では https://aws.amazon.com/[AWS] を使っています。link:https://azure.microsoft.com/[Azure] を触ってみたいです。
+お仕事では EC のプラットフォームとかを作っています。会社では https://aws.amazon.com/[AWS] を使っています。link:https://azure.microsoft.com/[Azure] を触ってみたいです。働きたくない。
 
 実装技術に興味がある方で、プロダクトを作って世の中に提供することにはあんまり興味がないので、GitHub に上がっているのは検証用の書き散らしコード片ばかりです。
 
