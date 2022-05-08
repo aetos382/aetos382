@@ -6,6 +6,8 @@ image:https://github-readme-stats.vercel.app/api/top-langs/?username=aetos382&la
 == プロフィール
 link:https://ja.wikipedia.org/wiki/1983%E5%B9%B4[1983年]生まれ。♂。生まれも育ちも埼玉県です。
 
+アイコンはlink:https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3DASH%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA[ロックマンDASH]の敵役であるlink:https://dic.pixiv.net/a/%E3%83%9C%E3%83%BC%E3%83%B3%E4%B8%80%E5%AE%B6[ボーン一家]のロゴをイメージしながら適当に手描きしたものです。ロックマンDASHの続編が出るのを永遠に待っています。
+
 == プログラミングとか
 link:https://docs.microsoft.com/dotnet/csharp/[C#] とか link:https://docs.microsoft.com/powershell/[PowerShell] とかが好きです。クラウドつよつよおじさんになりたい。
 
