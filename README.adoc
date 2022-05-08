@@ -8,7 +8,7 @@ image:https://github-readme-stats.vercel.app/api/top-langs/?username=aetos382&la
 == プロフィール
 aetos（あえとす）と申します。
 
-link:https://ja.wikipedia.org/wiki/1983%E5%B9%B4[1983年]生まれ。♂。生まれも育ちもlink:https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C[埼玉県]で、現在はlink:https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82[さいたま市]在住です。
+link:https://ja.wikipedia.org/wiki/1983%E5%B9%B4[1983年]生まれ。男。生まれも育ちもlink:https://ja.wikipedia.org/wiki/%E5%9F%BC%E7%8E%89%E7%9C%8C[埼玉県]で、現在はlink:https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82[さいたま市]在住です。
 
 名前の由来はギリシャ語の link:https://www.google.com/search?q=%CE%B1%CE%B5%CF%84%CF%8C%CF%82&tbm=isch[αετός] です。
 
