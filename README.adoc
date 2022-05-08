@@ -49,6 +49,7 @@ link:https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 link:images/strength-finder.png[Strength Finder の結果はこちら。]
 
 == リンク
-* https://tech.blog.aerie.jp[blog]
-* https://twitter.com/aetos382[twitter]
-* https://opencollective.com/aetos[Open Collective]
+* link:https://tech.blog.aerie.jp[blog]
+* link:https://twitter.com/aetos382[twitter]
+* link:https://discordapp.com/users/379896458519904256[Discord]
+* link:https://opencollective.com/aetos[Open Collective]
