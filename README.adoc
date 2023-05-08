@@ -54,7 +54,7 @@ link:images/strength-finder.png[Strength Finder の結果はこちら。]
 
 == リンク
 * link:https://tech.blog.aerie.jp[blog]
-* link:https://staging.bsky.app/profile/did:plc:xs6zoi4c65rpq5ig2qcdfm2j[bluesky]
+* link:https://staging.bsky.app/profile/did:plc:tkefl443hmfozipexvxr4xwo[bluesky]
 * link:https://twitter.com/aetos382[twitter]
 * link:https://misskey.io/@aetos[Misskey.io]
 * link:https://discordapp.com/users/379896458519904256[Discord]
