@@ -52,12 +52,7 @@ link:https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 
 link:images/strength-finder.png[Strength Finder の結果はこちら。]
 
-== リンク
+== 主なリンク
 * link:https://tech.blog.aerie.jp[Blog]
 * link:https://bsky.app/profile/did:plc:tkefl443hmfozipexvxr4xwo[Bluesky]
 * link:https://twitter.com/aetos382[Twitter]
-* link:https://dotnet.social/@aetos[Mastodon]
-* link:https://misskey.io/@aetos[Misskey.io]
-* link:https://discordapp.com/users/379896458519904256[Discord]
-* link:https://steamcommunity.com/id/aetos382[Steam]
-* link:https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Aetos382[Wikipedia]
