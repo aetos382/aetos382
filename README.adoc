@@ -55,4 +55,4 @@ link:images/strength-finder.png[Strength Finder の結果はこちら。]
 == 主なリンク
 * link:https://tech.blog.aerie.jp[Blog]
 * link:https://bsky.app/profile/did:plc:tkefl443hmfozipexvxr4xwo[Bluesky]
-* link:https://twitter.com/aetos382[Twitter]
+* link:https://aetos.aerie.jp[そのほかもろもろ]
