@@ -53,8 +53,8 @@ link:https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 link:images/strength-finder.png[Strength Finder の結果はこちら。]
 
 == 座右の銘
-[quote, フリードリヒ・ヴィルヘルム・ニーチェ, 力への意志]
-まさしく事実なるものはなく、あるのはただ解釈のみ
+[quote, Friedrich Wilhelm Nietzsche,Der Wille zur Macht]
+gerade Thatsachen giebt es nicht, nur Interpretationen.
 
 == 主なリンク
 * link:https://tech.blog.aerie.jp[Blog]
