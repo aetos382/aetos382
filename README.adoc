@@ -23,6 +23,8 @@ link:https://docs.microsoft.com/dotnet/csharp/[C#] とか link:https://docs.micr
 
 link:https://ja.wikipedia.org/wiki/Markdown[Markdown] は嫌いです。このファイルは link:https://asciidoc.org/[AsciiDoc] で書かれています。
 
+アンチ AI です。
+
 == 趣味
 ゲームは最近は link:https://www.minecraft.net/[Minecraft] くらいしかやってないです。link:http://typemoon.com/[TYPE-MOON] が好きですが link:https://www.fate-go.jp/[FGO] には挫折しました。
 
