@@ -54,7 +54,7 @@ link:images/strength-finder.png[Strength Finder の結果はこちら。]
 
 == 座右の銘
 [quote, Friedrich Wilhelm Nietzsche,Der Wille zur Macht]
-gerade Thatsachen giebt es nicht, nur Interpretationen.
+Gerade Thatsachen giebt es nicht, nur Interpretationen.
 
 == 主なリンク
 * link:https://tech.blog.aerie.jp[Blog]
