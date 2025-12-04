@@ -2,9 +2,6 @@
 
 image::images/face.png[アイコン]
 
-image:https://github-readme-stats.vercel.app/api?username=aetos382[GitHub stats, link=https://github.com/anuraghazra/github-readme-stats]
-image:https://github-readme-stats.vercel.app/api/top-langs/?username=aetos382&layout=compact[Top Languages, link=https://github.com/anuraghazra/github-readme-stats]
-
 == プロフィール
 aetos（あえとす）と申します。
 
